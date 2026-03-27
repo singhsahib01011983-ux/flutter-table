@@ -1,2 +1,2 @@
 dependencies:
-  speech_to_text: ^6.6.0
+  speech_to_text: ^6.6.0 // import 'package:speech_to_text/speech_to_text.dart' as stt;
